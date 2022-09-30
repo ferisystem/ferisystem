@@ -1,8 +1,8 @@
 ### Hi there.
 
-I'm a Python developer and C# scripter
+I'm a Python developer
 
-I’m currently learning Macroeconomics for programming
+I’m currently learning Macroeconomics for programming & Django
 
 my first project for Traders in TradingView: [Click](https://www.tradingview.com/script/tcVEex4w-Ichimoku-by-Ferisystem)
 
