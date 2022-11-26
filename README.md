@@ -2,7 +2,7 @@
 
 I'm a Python developer
 
-I’m currently learning Macroeconomics for programming & Django
+I’m currently learning Macroeconomics for programming & [Django](https://github.com/ferisystem/try-django3.2)
 
 my first project for Traders in TradingView: [Click](https://www.tradingview.com/script/tcVEex4w-Ichimoku-by-Ferisystem)
 
