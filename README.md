@@ -1,6 +1,6 @@
 ### Hi there.
 
-I'm a Python developer!
+I'm a Python developer.
 
 I’m currently learning [Django](https://github.com/ferisystem/Django-Templates)
 
