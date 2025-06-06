@@ -1,10 +1,13 @@
-### Hi there.
+### Hi there 👋  
+I'm a Python developer focused on building smart backend systems and automation tools.
 
-I'm a Python developer
+I specialize in creating bots and infrastructures for financial markets — especially in the context of high-frequency and platform-integrated automation. My work includes managing production-level projects for multiple crypto and FX exchanges, delivering robust solutions that handle real-world trading flows.
 
-I’m currently learning [Django](https://github.com/ferisystem/Django-Templates)
+I also work with Django, FastAPI, Redis, and automation tools like Selenium and Telethon.  
+If it’s repetitive, I probably already wrote a bot to handle it.
 
-my first project for Traders in TradingView: [Click](https://www.tradingview.com/script/tcVEex4w-Ichimoku-by-Ferisystem)
+### 🚀 Featured Project:
+Ichimoku in TradingView: [Click](https://www.tradingview.com/script/tcVEex4w-Ichimoku-by-Ferisystem)
 
 [![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=ferisystem&theme=cobalt&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
