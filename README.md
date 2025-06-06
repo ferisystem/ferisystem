@@ -5,7 +5,3 @@ I specialize in creating bots and infrastructures for financial markets — espe
 
 I also work with Django, FastAPI, Redis, and automation tools like Selenium, MQL4, MQL5 and Telethon/Aiogram.  
 If it’s repetitive, I probably already wrote a bot to handle it.
-
-[![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=ferisystem&theme=cobalt&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Alireza's github stats](https://github-readme-stats-ten.vercel.app/api?username=ferisystem&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
